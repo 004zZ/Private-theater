@@ -1,8 +1,8 @@
 {
-"message":"",
+"message":"No new version found",
 "code":200,
 "data" : {
-"version":"https://www.baidu.com",
-"isUpdate":true,
+"version":"1.0.0",
+"isUpdate":false,
 }
 }
